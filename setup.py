@@ -13,7 +13,7 @@ setup(name='quicklink',
       py_modules=['quicklink'],
       package_dir={'': 'src'},
       long_description=long_description,
-      long_description_content_tyoe='text/markdown',
+      long_description_content_type='text/markdown',
       keywords='url weblink file',
       classifiers=[
             'Programming Language :: Python :: 3',
