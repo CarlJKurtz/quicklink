@@ -1,5 +1,6 @@
 .DS_Store
 *.url
+tox.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

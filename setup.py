@@ -4,8 +4,8 @@ with open('README.md', 'r') as md:
       long_description = md.read()
 
 setup(name='quicklink',
-      version='0.0.1',
-      description='Saves weblink as .url file.',
+      version='0.0.2',
+      description='A simple command line tool to save a web URL as a file on your system.',
       url='https://github.com/CarlJKurtz/quicklink',
       author='Carl J. Kurtz',
       license='BSD 3-Clause',
